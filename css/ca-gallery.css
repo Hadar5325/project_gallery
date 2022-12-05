@@ -190,7 +190,7 @@ body {
 header.masthead {
     text-align: center;
     color: white;
-    background-image: url("../img/header-bg.jpg");
+    background-image: url("../images/New-York.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -758,7 +758,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 /* reset bootstrap*/
-.row {
+.row{
     margin-right: 0;
     margin-left: 0;
 }
